@@ -8,7 +8,7 @@
 
 
 ## Tasks
-	You have two choices to do either **one** of Task 1 or Task 2.	More details would be provided in the respective task folders.
+	### You have two choices to do either **one** of Task 1 or Task 2.	More details would be provided in the respective task folders.
 	**Task 1** would be related to **Mobile App Developement** whereas **Task 2** would be related to **Computer Vision**.
 
 ## Creating a work environment and submission
